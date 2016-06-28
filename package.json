@@ -1,0 +1,20 @@
+{
+  "name": "metalsmith-extended",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chenos <chenlinxh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "is": "^3.1.0",
+    "metalsmith": "^2.1.0",
+    "path": "^0.12.7",
+    "rimraf": "^2.5.2",
+    "thunkify": "^2.1.2",
+    "unyield": "0.0.1"
+  }
+}
